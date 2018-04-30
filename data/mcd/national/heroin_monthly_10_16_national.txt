@@ -1,0 +1,147 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"2010"	"2010"	"Jan., 2010"	"2010/01"	199	Not Applicable	Not Applicable
+	"2010"	"2010"	"Feb., 2010"	"2010/02"	198	Not Applicable	Not Applicable
+	"2010"	"2010"	"Mar., 2010"	"2010/03"	250	Not Applicable	Not Applicable
+	"2010"	"2010"	"Apr., 2010"	"2010/04"	266	Not Applicable	Not Applicable
+	"2010"	"2010"	"May, 2010"	"2010/05"	277	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jun., 2010"	"2010/06"	238	Not Applicable	Not Applicable
+	"2010"	"2010"	"Jul., 2010"	"2010/07"	254	Not Applicable	Not Applicable
+	"2010"	"2010"	"Aug., 2010"	"2010/08"	248	Not Applicable	Not Applicable
+	"2010"	"2010"	"Sep., 2010"	"2010/09"	240	Not Applicable	Not Applicable
+	"2010"	"2010"	"Oct., 2010"	"2010/10"	286	Not Applicable	Not Applicable
+	"2010"	"2010"	"Nov., 2010"	"2010/11"	271	Not Applicable	Not Applicable
+	"2010"	"2010"	"Dec., 2010"	"2010/12"	309	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"			3036	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jan., 2011"	"2011/01"	323	Not Applicable	Not Applicable
+	"2011"	"2011"	"Feb., 2011"	"2011/02"	331	Not Applicable	Not Applicable
+	"2011"	"2011"	"Mar., 2011"	"2011/03"	366	Not Applicable	Not Applicable
+	"2011"	"2011"	"Apr., 2011"	"2011/04"	377	Not Applicable	Not Applicable
+	"2011"	"2011"	"May, 2011"	"2011/05"	362	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jun., 2011"	"2011/06"	350	Not Applicable	Not Applicable
+	"2011"	"2011"	"Jul., 2011"	"2011/07"	393	Not Applicable	Not Applicable
+	"2011"	"2011"	"Aug., 2011"	"2011/08"	361	Not Applicable	Not Applicable
+	"2011"	"2011"	"Sep., 2011"	"2011/09"	376	Not Applicable	Not Applicable
+	"2011"	"2011"	"Oct., 2011"	"2011/10"	334	Not Applicable	Not Applicable
+	"2011"	"2011"	"Nov., 2011"	"2011/11"	427	Not Applicable	Not Applicable
+	"2011"	"2011"	"Dec., 2011"	"2011/12"	397	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"			4397	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jan., 2012"	"2012/01"	368	Not Applicable	Not Applicable
+	"2012"	"2012"	"Feb., 2012"	"2012/02"	427	Not Applicable	Not Applicable
+	"2012"	"2012"	"Mar., 2012"	"2012/03"	436	Not Applicable	Not Applicable
+	"2012"	"2012"	"Apr., 2012"	"2012/04"	434	Not Applicable	Not Applicable
+	"2012"	"2012"	"May, 2012"	"2012/05"	492	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jun., 2012"	"2012/06"	517	Not Applicable	Not Applicable
+	"2012"	"2012"	"Jul., 2012"	"2012/07"	502	Not Applicable	Not Applicable
+	"2012"	"2012"	"Aug., 2012"	"2012/08"	584	Not Applicable	Not Applicable
+	"2012"	"2012"	"Sep., 2012"	"2012/09"	535	Not Applicable	Not Applicable
+	"2012"	"2012"	"Oct., 2012"	"2012/10"	527	Not Applicable	Not Applicable
+	"2012"	"2012"	"Nov., 2012"	"2012/11"	525	Not Applicable	Not Applicable
+	"2012"	"2012"	"Dec., 2012"	"2012/12"	578	Not Applicable	Not Applicable
+"Total"	"2012"	"2012"			5925	Not Applicable	Not Applicable
+	"2013"	"2013"	"Jan., 2013"	"2013/01"	576	Not Applicable	Not Applicable
+	"2013"	"2013"	"Feb., 2013"	"2013/02"	657	Not Applicable	Not Applicable
+	"2013"	"2013"	"Mar., 2013"	"2013/03"	715	Not Applicable	Not Applicable
+	"2013"	"2013"	"Apr., 2013"	"2013/04"	678	Not Applicable	Not Applicable
+	"2013"	"2013"	"May, 2013"	"2013/05"	640	Not Applicable	Not Applicable
+	"2013"	"2013"	"Jun., 2013"	"2013/06"	694	Not Applicable	Not Applicable
+	"2013"	"2013"	"Jul., 2013"	"2013/07"	695	Not Applicable	Not Applicable
+	"2013"	"2013"	"Aug., 2013"	"2013/08"	734	Not Applicable	Not Applicable
+	"2013"	"2013"	"Sep., 2013"	"2013/09"	702	Not Applicable	Not Applicable
+	"2013"	"2013"	"Oct., 2013"	"2013/10"	694	Not Applicable	Not Applicable
+	"2013"	"2013"	"Nov., 2013"	"2013/11"	746	Not Applicable	Not Applicable
+	"2013"	"2013"	"Dec., 2013"	"2013/12"	726	Not Applicable	Not Applicable
+"Total"	"2013"	"2013"			8257	Not Applicable	Not Applicable
+	"2014"	"2014"	"Jan., 2014"	"2014/01"	799	Not Applicable	Not Applicable
+	"2014"	"2014"	"Feb., 2014"	"2014/02"	768	Not Applicable	Not Applicable
+	"2014"	"2014"	"Mar., 2014"	"2014/03"	890	Not Applicable	Not Applicable
+	"2014"	"2014"	"Apr., 2014"	"2014/04"	753	Not Applicable	Not Applicable
+	"2014"	"2014"	"May, 2014"	"2014/05"	876	Not Applicable	Not Applicable
+	"2014"	"2014"	"Jun., 2014"	"2014/06"	846	Not Applicable	Not Applicable
+	"2014"	"2014"	"Jul., 2014"	"2014/07"	919	Not Applicable	Not Applicable
+	"2014"	"2014"	"Aug., 2014"	"2014/08"	924	Not Applicable	Not Applicable
+	"2014"	"2014"	"Sep., 2014"	"2014/09"	911	Not Applicable	Not Applicable
+	"2014"	"2014"	"Oct., 2014"	"2014/10"	1008	Not Applicable	Not Applicable
+	"2014"	"2014"	"Nov., 2014"	"2014/11"	898	Not Applicable	Not Applicable
+	"2014"	"2014"	"Dec., 2014"	"2014/12"	982	Not Applicable	Not Applicable
+"Total"	"2014"	"2014"			10574	Not Applicable	Not Applicable
+	"2015"	"2015"	"Jan., 2015"	"2015/01"	977	Not Applicable	Not Applicable
+	"2015"	"2015"	"Feb., 2015"	"2015/02"	976	Not Applicable	Not Applicable
+	"2015"	"2015"	"Mar., 2015"	"2015/03"	1058	Not Applicable	Not Applicable
+	"2015"	"2015"	"Apr., 2015"	"2015/04"	1058	Not Applicable	Not Applicable
+	"2015"	"2015"	"May, 2015"	"2015/05"	1078	Not Applicable	Not Applicable
+	"2015"	"2015"	"Jun., 2015"	"2015/06"	975	Not Applicable	Not Applicable
+	"2015"	"2015"	"Jul., 2015"	"2015/07"	1092	Not Applicable	Not Applicable
+	"2015"	"2015"	"Aug., 2015"	"2015/08"	1129	Not Applicable	Not Applicable
+	"2015"	"2015"	"Sep., 2015"	"2015/09"	1233	Not Applicable	Not Applicable
+	"2015"	"2015"	"Oct., 2015"	"2015/10"	1178	Not Applicable	Not Applicable
+	"2015"	"2015"	"Nov., 2015"	"2015/11"	1174	Not Applicable	Not Applicable
+	"2015"	"2015"	"Dec., 2015"	"2015/12"	1061	Not Applicable	Not Applicable
+"Total"	"2015"	"2015"			12989	Not Applicable	Not Applicable
+	"2016"	"2016"	"Jan., 2016"	"2016/01"	1147	Not Applicable	Not Applicable
+	"2016"	"2016"	"Feb., 2016"	"2016/02"	1238	Not Applicable	Not Applicable
+	"2016"	"2016"	"Mar., 2016"	"2016/03"	1338	Not Applicable	Not Applicable
+	"2016"	"2016"	"Apr., 2016"	"2016/04"	1303	Not Applicable	Not Applicable
+	"2016"	"2016"	"May, 2016"	"2016/05"	1233	Not Applicable	Not Applicable
+	"2016"	"2016"	"Jun., 2016"	"2016/06"	1216	Not Applicable	Not Applicable
+	"2016"	"2016"	"Jul., 2016"	"2016/07"	1363	Not Applicable	Not Applicable
+	"2016"	"2016"	"Aug., 2016"	"2016/08"	1316	Not Applicable	Not Applicable
+	"2016"	"2016"	"Sep., 2016"	"2016/09"	1283	Not Applicable	Not Applicable
+	"2016"	"2016"	"Oct., 2016"	"2016/10"	1241	Not Applicable	Not Applicable
+	"2016"	"2016"	"Nov., 2016"	"2016/11"	1325	Not Applicable	Not Applicable
+	"2016"	"2016"	"Dec., 2016"	"2016/12"	1466	Not Applicable	Not Applicable
+"Total"	"2016"	"2016"			15469	Not Applicable	Not Applicable
+"Total"					60647	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title: heroin-monthly-10-16"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: T40.1 (Heroin)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified), X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system), X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified), X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified), X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system), X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X85 (Assault by drugs,"
+"medicaments and biological substances), Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent), Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent), Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent), Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Weekday: All"
+"Year/Month: 2010, 2011, 2012, 2013, 2014, 2015, 2016"
+"Group By: Year, Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 28, 2018 4:43:58 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 28, 2018 4:43:58 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

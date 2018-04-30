@@ -1,0 +1,103 @@
+State,State Code,drug,adj_rate_15,adj_rate_16,adj_rate_flag_15,adj_rate_flag_16,deaths_15,deaths_16,deaths_flag_15,deaths_flag_16,lower_int_15,lower_int_16,population_15,population_16,upper_int_15,upper_int_16,gt_100_deaths,nonoverlapping_intervals,zscore,sig,quality_reporting
+Alabama,01,coc,0.83,1.78,,,38.0,82.0,,,0.58,1.41,4858979,4863300,1.14,2.22,False,True,4.099586552617307,1.0,False
+Alaska,02,coc,,,Suppressed,Unreliable,,15.0,Suppressed,,,0.99,738432,741894,,3.04,False,False,,,True
+Arizona,04,coc,0.94,1.22,,,62.0,82.0,,,0.72,0.96,6828065,6931071,1.22,1.52,False,False,1.5793969210076189,0.0,True
+Arkansas,05,coc,,,Unreliable,Unreliable,14.0,10.0,,,0.29,0.17,2978204,2988248,0.9,0.64,False,False,,0.0,False
+California,06,coc,0.72,0.86,,,296.0,366.0,,,0.64,0.78,39144818,39250017,0.8,0.95,True,False,2.204975286074686,1.0,False
+Colorado,08,coc,1.04,1.87,,,60.0,106.0,,,0.79,1.51,5456574,5540545,1.34,2.23,False,True,3.603911848851132,1.0,True
+Connecticut,09,coc,4.66,6.91,,,166.0,237.0,,,3.93,6.01,3590886,3576452,5.4,7.82,True,True,3.960741681498175,1.0,True
+Delaware,10,coc,2.3,5.35,,,23.0,50.0,,,1.44,3.93,945934,952065,3.48,7.11,False,True,3.394913286203825,1.0,False
+District of Columbia,11,coc,4.87,13.47,,,33.0,89.0,,,3.33,10.79,672228,681170,6.87,16.61,False,True,5.21597288187912,1.0,True
+Florida,12,coc,2.93,5.38,,,558.0,1048.0,,,2.68,5.05,20271272,20612439,3.18,5.71,True,True,12.136293453003312,1.0,False
+Georgia,13,coc,1.54,1.99,,,159.0,209.0,,,1.3,1.72,10214860,10310371,1.79,2.27,True,False,2.4256299634576775,1.0,True
+Hawaii,15,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1431603,1428557,,,False,False,,,True
+Idaho,16,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1654930,1683140,,,False,False,,,False
+Illinois,17,coc,2.52,4.02,,,332.0,507.0,,,2.24,3.66,12859995,12801539,2.79,4.38,True,True,6.645813455022189,1.0,True
+Indiana,18,coc,1.05,1.72,,,68.0,111.0,,,0.81,1.39,6619680,6633053,1.34,2.04,False,True,3.276592542969218,1.0,False
+Iowa,19,coc,,,Unreliable,Unreliable,17.0,15.0,,,0.35,0.27,3123899,3134693,1.0,0.82,False,False,,0.0,True
+Kansas,20,coc,,,Unreliable,Unreliable,15.0,13.0,,,0.33,0.22,2911641,2907289,0.98,0.75,False,False,,0.0,False
+Kentucky,21,coc,2.36,3.45,,,98.0,145.0,,,1.91,2.88,4425092,4436974,2.89,4.03,False,False,3.009831820543151,0.0,False
+Louisiana,22,coc,1.72,2.61,,,80.0,121.0,,,1.36,2.13,4670724,4681666,2.16,3.09,False,False,2.9244524023420246,0.0,False
+Maine,23,coc,2.78,5.02,,,32.0,61.0,,,1.89,3.82,1329328,1331479,3.95,6.5,False,False,2.9251647352325225,0.0,True
+Maryland,24,coc,2.29,5.02,,,143.0,314.0,,,1.91,4.46,6006401,6016447,2.68,5.59,True,True,7.827673012027651,1.0,True
+Massachusetts,25,coc,6.07,8.5,,,402.0,567.0,,,5.47,7.78,6794422,6811779,6.68,9.21,True,True,5.250482509166829,1.0,True
+Michigan,26,coc,3.2,5.3,,,309.0,500.0,,,2.83,4.83,9922576,9928300,3.56,5.78,True,True,7.175933657962305,1.0,False
+Minnesota,27,coc,0.73,0.75,,,42.0,43.0,,,0.53,0.54,5489594,5519952,1.0,1.02,False,False,0.12197215863018143,0.0,True
+Mississippi,28,coc,0.88,1.12,,,25.0,33.0,,,0.57,0.77,2992333,2988726,1.3,1.59,False,False,0.9280857336564522,0.0,False
+Missouri,29,coc,1.33,1.76,,,77.0,103.0,,,1.04,1.41,6083672,6093000,1.67,2.11,False,False,1.9086161855297188,0.0,True
+Montana,30,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1032949,1042520,,,False,False,,,False
+Nebraska,31,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1896190,1907116,,,False,False,,,False
+Nevada,32,coc,1.27,1.2,,,40.0,37.0,,,0.9,0.84,2890845,2940058,1.74,1.66,False,False,0.24051470388687454,0.0,True
+New Hampshire,33,coc,4.06,5.04,,,47.0,61.0,,,2.96,3.82,1330608,1334795,5.43,6.53,False,False,1.1858900828655499,0.0,True
+New Jersey,34,coc,2.33,4.42,,,210.0,394.0,,,2.01,3.98,8958013,8944469,2.65,4.87,True,True,7.611917977361984,1.0,False
+New Mexico,35,coc,2.63,2.99,,,51.0,58.0,,,1.94,2.25,2085109,2081015,3.48,3.89,False,False,0.6931145287949244,0.0,True
+New York,36,coc,3.09,4.92,,,634.0,991.0,,,2.85,4.61,19795791,19745289,3.34,5.24,True,True,9.093180447935897,1.0,True
+North Carolina,37,coc,3.17,5.06,,,314.0,500.0,,,2.81,4.61,10042802,10146788,3.53,5.51,True,True,6.615415639730842,1.0,True
+North Dakota,38,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,756927,757952,,,False,False,,,False
+Ohio,39,coc,6.28,10.14,,,698.0,1124.0,,,5.8,9.53,11613423,11614373,6.76,10.75,True,True,10.266099580786596,1.0,True
+Oklahoma,40,coc,0.71,0.76,,,29.0,31.0,,,0.47,0.51,3911338,3923561,1.02,1.09,False,False,0.25810866562791474,0.0,True
+Oregon,41,coc,0.58,0.66,,,22.0,26.0,,,0.36,0.43,4028977,4093465,0.88,0.97,False,False,0.45770316429151847,0.0,True
+Pennsylvania,42,coc,2.16,4.21,,,269.0,513.0,,,1.9,3.84,12802503,12784227,2.43,4.59,True,True,9.188259775239665,1.0,False
+Rhode Island,44,coc,8.32,10.73,,,87.0,112.0,,,6.61,8.69,1056298,1056426,10.32,12.77,False,False,1.7947127863144776,0.0,True
+South Carolina,45,coc,2.41,3.02,,,116.0,143.0,,,1.96,2.51,4896146,4961119,2.85,3.52,True,False,1.8370833998989349,0.0,True
+South Dakota,46,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,858469,865454,,,False,False,,,False
+Tennessee,47,coc,3.03,3.76,,,202.0,249.0,,,2.61,3.28,6600299,6651194,3.46,4.23,True,False,2.279921571315186,1.0,True
+Texas,48,coc,1.71,2.07,,,470.0,584.0,,,1.55,1.9,27469114,27862596,1.86,2.24,True,True,3.0787523540829413,1.0,True
+Utah,49,coc,1.54,1.69,,,44.0,48.0,,,1.11,1.24,2995919,3051217,2.07,2.24,False,False,0.45882071972952465,0.0,True
+Vermont,50,coc,,3.97,Unreliable,,14.0,21.0,,,1.25,2.42,626042,624594,3.84,6.13,False,False,,0.0,True
+Virginia,51,coc,1.97,3.04,,,168.0,254.0,,,1.66,2.66,8382993,8411808,2.27,3.42,True,True,4.379883873956081,1.0,True
+Washington,53,coc,1.1,1.18,,,85.0,90.0,,,0.88,0.94,7170351,7288000,1.37,1.45,False,False,0.4503944767868678,0.0,True
+West Virginia,54,coc,5.6,8.5,,,94.0,143.0,,,4.5,7.08,1844128,1831102,6.88,9.93,False,True,3.311971764731931,1.0,True
+Wisconsin,55,coc,1.98,2.56,,,115.0,147.0,,,1.61,2.14,5771337,5778708,2.35,2.99,True,False,2.068540581641395,1.0,True
+Wyoming,56,coc,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,586107,585501,,,False,False,,,False
+Alabama,01,coc_fen,,0.75,Suppressed,,,31.0,Suppressed,,,0.51,4858979,4863300,,1.07,False,False,,,False
+Alaska,02,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,738432,741894,,,False,False,,,True
+Arizona,04,coc_fen,,,Suppressed,Unreliable,,13.0,Suppressed,,,0.1,6828065,6931071,,0.31,False,False,,,True
+Arkansas,05,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,2978204,2988248,,,False,False,,,False
+California,06,coc_fen,,0.11,Unreliable,,15.0,45.0,,,0.02,0.08,39144818,39250017,0.07,0.14,False,True,,1.0,False
+Colorado,08,coc_fen,,,Suppressed,Unreliable,,10.0,Suppressed,,,0.09,5456574,5540545,,0.34,False,False,,,True
+Connecticut,09,coc_fen,1.2,3.94,,,40.0,128.0,,,0.85,3.25,3590886,3576452,1.65,4.64,False,True,7.238871756922166,1.0,True
+Delaware,10,coc_fen,,,Suppressed,Unreliable,,18.0,Suppressed,,,1.14,945934,952065,,3.13,False,False,,,False
+District of Columbia,11,coc_fen,,6.38,Suppressed,,,41.0,Suppressed,,,4.56,672228,681170,,8.69,False,False,,,True
+Florida,12,coc_fen,0.81,2.6,,,148.0,480.0,,,0.68,2.36,20271272,20612439,0.94,2.83,True,True,13.828512841169934,1.0,False
+Georgia,13,coc_fen,0.32,0.42,,,34.0,43.0,,,0.22,0.3,10214860,10310371,0.45,0.57,False,False,1.1772610216787778,0.0,True
+Hawaii,15,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1431603,1428557,,,False,False,,,True
+Idaho,16,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1654930,1683140,,,False,False,,,False
+Illinois,17,coc_fen,0.27,1.34,,,36.0,163.0,,,0.19,1.13,12859995,12801539,0.37,1.55,False,True,9.559314746350653,1.0,True
+Indiana,18,coc_fen,,0.65,Suppressed,,,39.0,Suppressed,,,0.46,6619680,6633053,,0.9,False,False,,,False
+Iowa,19,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,3123899,3134693,,,False,False,,,True
+Kansas,20,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,2911641,2907289,,,False,False,,,False
+Kentucky,21,coc_fen,1.06,1.52,,,43.0,62.0,,,0.76,1.17,4425092,4436974,1.43,1.96,False,False,1.9061232518652662,0.0,False
+Louisiana,22,coc_fen,,,Suppressed,Unreliable,,19.0,Suppressed,,,0.26,4670724,4681666,,0.68,False,False,,,False
+Maine,23,coc_fen,,3.32,Unreliable,,15.0,39.0,,,0.76,2.34,1329328,1331479,2.25,4.57,False,True,,1.0,True
+Maryland,24,coc_fen,0.69,2.77,,,42.0,169.0,,,0.5,2.34,6006401,6016447,0.94,3.2,False,True,8.667792873105315,1.0,True
+Massachusetts,25,coc_fen,3.38,6.07,,,220.0,399.0,,,2.93,5.46,6794422,6811779,3.84,6.68,True,True,7.216404891894899,1.0,True
+Michigan,26,coc_fen,1.19,2.83,,,112.0,260.0,,,0.96,2.48,9922576,9928300,1.41,3.18,True,True,8.148627521629999,1.0,False
+Minnesota,27,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,5489594,5519952,,,False,False,,,True
+Mississippi,28,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,2992333,2988726,,,False,False,,,False
+Missouri,29,coc_fen,,0.61,Unreliable,,10.0,34.0,,,0.07,0.42,6083672,6093000,0.31,0.86,False,True,,1.0,True
+Montana,30,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1032949,1042520,,,False,False,,,False
+Nebraska,31,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,1896190,1907116,,,False,False,,,False
+Nevada,32,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,2890845,2940058,,,False,False,,,True
+New Hampshire,33,coc_fen,3.26,4.25,,,38.0,51.0,,,2.29,3.13,1330608,1334795,4.52,5.64,False,False,1.318694902321404,0.0,True
+New Jersey,34,coc_fen,0.47,1.96,,,43.0,170.0,,,0.34,1.66,8958013,8944469,0.64,2.26,False,True,9.045405171064225,1.0,False
+New Mexico,35,coc_fen,,,Suppressed,Unreliable,,13.0,Suppressed,,,0.34,2085109,2081015,,1.08,False,False,,,True
+New York,36,coc_fen,0.72,2.33,,,142.0,451.0,,,0.6,2.11,19795791,19745289,0.84,2.55,True,True,12.966854160853002,1.0,True
+North Carolina,37,coc_fen,0.49,1.67,,,46.0,160.0,,,0.36,1.41,10042802,10146788,0.65,1.94,False,True,8.055460063065247,1.0,True
+North Dakota,38,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,756927,757952,,,False,False,,,False
+Ohio,39,coc_fen,2.32,5.52,,,253.0,602.0,,,2.03,5.06,11613423,11614373,2.61,5.97,True,True,12.316458218123541,1.0,True
+Oklahoma,40,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,3911338,3923561,,,False,False,,,True
+Oregon,41,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,4028977,4093465,,,False,False,,,True
+Pennsylvania,42,coc_fen,0.5,2.25,,,61.0,270.0,,,0.38,1.98,12802503,12784227,0.65,2.53,False,True,11.938937954347386,1.0,False
+Rhode Island,44,coc_fen,4.59,5.83,,,45.0,58.0,,,3.32,4.39,1056298,1056426,6.19,7.59,False,False,1.2485443052571654,0.0,True
+South Carolina,45,coc_fen,0.42,0.83,,,21.0,37.0,,,0.26,0.58,4896146,4961119,0.65,1.14,False,False,2.571668790443904,0.0,True
+South Dakota,46,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,858469,865454,,,False,False,,,False
+Tennessee,47,coc_fen,0.62,1.06,,,38.0,67.0,,,0.44,0.82,6600299,6651194,0.86,1.36,False,False,2.761822403278826,0.0,True
+Texas,48,coc_fen,,0.11,Suppressed,,,29.0,Suppressed,,,0.07,27469114,27862596,,0.17,False,False,,,True
+Utah,49,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,2995919,3051217,,,False,False,,,True
+Vermont,50,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,626042,624594,,,False,False,,,True
+Virginia,51,coc_fen,0.42,1.6,,,34.0,130.0,,,0.29,1.32,8382993,8411808,0.58,1.88,False,True,7.604362054907062,1.0,True
+Washington,53,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,7170351,7288000,,,False,False,,,True
+West Virginia,54,coc_fen,1.77,3.91,,,28.0,65.0,,,1.16,3.0,1844128,1831102,2.57,5.01,False,True,3.851771003409723,1.0,True
+Wisconsin,55,coc_fen,,0.73,Unreliable,,15.0,40.0,,,0.14,0.52,5771337,5778708,0.43,1.0,False,True,,1.0,True
+Wyoming,56,coc_fen,,,Suppressed,Suppressed,,,Suppressed,Suppressed,,,586107,585501,,,False,False,,,False

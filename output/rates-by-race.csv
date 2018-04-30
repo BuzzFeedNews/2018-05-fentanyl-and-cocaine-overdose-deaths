@@ -1,0 +1,11 @@
+Race,drug,adj_rate_15,adj_rate_16,adj_rate_flag_15,adj_rate_flag_16,deaths_15,deaths_16,deaths_flag_15,deaths_flag_16,lower_int_15,lower_int_16,population_15,population_16,upper_int_15,upper_int_16,gt_100_deaths,nonoverlapping_intervals,zscore,sig
+Hispanic or Latino,all,7.65,9.48,,,4117.0,5230.0,,,7.41,9.22,56592793,57470287,7.89,9.75,True,True,10.554977972580279,1.0
+American Indian or Alaska Native,all,21.23,24.24,,,553.0,638.0,,,19.42,22.32,2689706,2711067,23.03,26.16,True,False,2.319562751049264,1.0
+Asian or Pacific Islander,all,2.69,3.1,,,548.0,644.0,,,2.46,2.86,19116557,19479730,2.91,3.35,True,False,2.36616358415509,1.0
+Black or African American,all,12.18,17.08,,,5070.0,7220.0,,,11.84,16.68,41777483,42141669,12.52,17.48,True,True,18.550021403286724,1.0
+White,all,21.07,25.3,,,41720.0,49457.0,,,20.86,25.07,201242281,201324760,21.28,25.53,True,True,27.872261896809633,1.0
+Hispanic or Latino,coc_fen,0.23,0.69,,,124.0,403.0,,,0.19,0.63,56592793,57470287,0.28,0.76,True,True,11.43078239742215,1.0
+American Indian or Alaska Native,coc_fen,,,Unreliable,Unreliable,5.0,15.0,,,0.07,0.32,2689706,2711067,0.48,0.94,False,False,,0.0
+Asian or Pacific Islander,coc_fen,,0.1,Unreliable,,8.0,20.0,,,0.02,0.06,19116557,19479730,0.08,0.15,False,False,,0.0
+Black or African American,coc_fen,0.56,1.88,,,243.0,779.0,,,0.48,1.74,41777483,42141669,0.63,2.01,True,True,17.289559397782046,1.0
+White,coc_fen,0.62,1.6,,,1151.0,2936.0,,,0.58,1.54,201242281,201324760,0.65,1.66,True,True,29.507774852439038,1.0

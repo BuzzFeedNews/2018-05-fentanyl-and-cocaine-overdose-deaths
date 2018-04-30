@@ -1,0 +1,5 @@
+data/geo/tl_2017_us_county/*
+data/geo/tl_2017_us_county/tl_2017_us_county.shp
+.ipynb_checkpoints/
+fonts
+.DS_Store

@@ -1,0 +1,187 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	Age Adjusted Rate Lower 95% Confidence Interval	Age Adjusted Rate Upper 95% Confidence Interval
+	"Alabama"	"01"	"2015"	"2015"	Suppressed	4858979	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alabama"	"01"	"2016"	"2016"	31	4863300	0.64	0.75	0.51	1.07
+	"Alaska"	"02"	"2015"	"2015"	Suppressed	738432	Suppressed	Suppressed	Suppressed	Suppressed
+	"Alaska"	"02"	"2016"	"2016"	Suppressed	741894	Suppressed	Suppressed	Suppressed	Suppressed
+	"Arizona"	"04"	"2015"	"2015"	Suppressed	6828065	Suppressed	Suppressed	Suppressed	Suppressed
+	"Arizona"	"04"	"2016"	"2016"	13	6931071	Unreliable	Unreliable	0.10	0.31
+	"Arkansas"	"05"	"2015"	"2015"	Suppressed	2978204	Suppressed	Suppressed	Suppressed	Suppressed
+	"Arkansas"	"05"	"2016"	"2016"	Suppressed	2988248	Suppressed	Suppressed	Suppressed	Suppressed
+	"California"	"06"	"2015"	"2015"	15	39144818	Unreliable	Unreliable	0.02	0.07
+	"California"	"06"	"2016"	"2016"	45	39250017	0.11	0.11	0.08	0.14
+	"Colorado"	"08"	"2015"	"2015"	Suppressed	5456574	Suppressed	Suppressed	Suppressed	Suppressed
+	"Colorado"	"08"	"2016"	"2016"	10	5540545	Unreliable	Unreliable	0.09	0.34
+	"Connecticut"	"09"	"2015"	"2015"	40	3590886	1.11	1.20	0.85	1.65
+	"Connecticut"	"09"	"2016"	"2016"	128	3576452	3.58	3.94	3.25	4.64
+	"Delaware"	"10"	"2015"	"2015"	Suppressed	945934	Suppressed	Suppressed	Suppressed	Suppressed
+	"Delaware"	"10"	"2016"	"2016"	18	952065	Unreliable	Unreliable	1.14	3.13
+	"District of Columbia"	"11"	"2015"	"2015"	Suppressed	672228	Suppressed	Suppressed	Suppressed	Suppressed
+	"District of Columbia"	"11"	"2016"	"2016"	41	681170	6.02	6.38	4.56	8.69
+	"Florida"	"12"	"2015"	"2015"	148	20271272	0.73	0.81	0.68	0.94
+	"Florida"	"12"	"2016"	"2016"	480	20612439	2.33	2.60	2.36	2.83
+	"Georgia"	"13"	"2015"	"2015"	34	10214860	0.33	0.32	0.22	0.45
+	"Georgia"	"13"	"2016"	"2016"	43	10310371	0.42	0.42	0.30	0.57
+	"Hawaii"	"15"	"2015"	"2015"	Suppressed	1431603	Suppressed	Suppressed	Suppressed	Suppressed
+	"Hawaii"	"15"	"2016"	"2016"	Suppressed	1428557	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2015"	"2015"	Suppressed	1654930	Suppressed	Suppressed	Suppressed	Suppressed
+	"Idaho"	"16"	"2016"	"2016"	Suppressed	1683140	Suppressed	Suppressed	Suppressed	Suppressed
+	"Illinois"	"17"	"2015"	"2015"	36	12859995	0.28	0.27	0.19	0.37
+	"Illinois"	"17"	"2016"	"2016"	163	12801539	1.27	1.34	1.13	1.55
+	"Indiana"	"18"	"2015"	"2015"	Suppressed	6619680	Suppressed	Suppressed	Suppressed	Suppressed
+	"Indiana"	"18"	"2016"	"2016"	39	6633053	0.59	0.65	0.46	0.90
+	"Iowa"	"19"	"2015"	"2015"	Suppressed	3123899	Suppressed	Suppressed	Suppressed	Suppressed
+	"Iowa"	"19"	"2016"	"2016"	Suppressed	3134693	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2015"	"2015"	Suppressed	2911641	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kansas"	"20"	"2016"	"2016"	Suppressed	2907289	Suppressed	Suppressed	Suppressed	Suppressed
+	"Kentucky"	"21"	"2015"	"2015"	43	4425092	0.97	1.06	0.76	1.43
+	"Kentucky"	"21"	"2016"	"2016"	62	4436974	1.40	1.52	1.17	1.96
+	"Louisiana"	"22"	"2015"	"2015"	Suppressed	4670724	Suppressed	Suppressed	Suppressed	Suppressed
+	"Louisiana"	"22"	"2016"	"2016"	19	4681666	Unreliable	Unreliable	0.26	0.68
+	"Maine"	"23"	"2015"	"2015"	15	1329328	Unreliable	Unreliable	0.76	2.25
+	"Maine"	"23"	"2016"	"2016"	39	1331479	2.93	3.32	2.34	4.57
+	"Maryland"	"24"	"2015"	"2015"	42	6006401	0.70	0.69	0.50	0.94
+	"Maryland"	"24"	"2016"	"2016"	169	6016447	2.81	2.77	2.34	3.20
+	"Massachusetts"	"25"	"2015"	"2015"	220	6794422	3.24	3.38	2.93	3.84
+	"Massachusetts"	"25"	"2016"	"2016"	399	6811779	5.86	6.07	5.46	6.68
+	"Michigan"	"26"	"2015"	"2015"	112	9922576	1.13	1.19	0.96	1.41
+	"Michigan"	"26"	"2016"	"2016"	260	9928300	2.62	2.83	2.48	3.18
+	"Minnesota"	"27"	"2015"	"2015"	Suppressed	5489594	Suppressed	Suppressed	Suppressed	Suppressed
+	"Minnesota"	"27"	"2016"	"2016"	Suppressed	5519952	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2015"	"2015"	Suppressed	2992333	Suppressed	Suppressed	Suppressed	Suppressed
+	"Mississippi"	"28"	"2016"	"2016"	Suppressed	2988726	Suppressed	Suppressed	Suppressed	Suppressed
+	"Missouri"	"29"	"2015"	"2015"	10	6083672	Unreliable	Unreliable	0.07	0.31
+	"Missouri"	"29"	"2016"	"2016"	34	6093000	0.56	0.61	0.42	0.86
+	"Montana"	"30"	"2015"	"2015"	Suppressed	1032949	Suppressed	Suppressed	Suppressed	Suppressed
+	"Montana"	"30"	"2016"	"2016"	Suppressed	1042520	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2015"	"2015"	Suppressed	1896190	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nebraska"	"31"	"2016"	"2016"	Suppressed	1907116	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nevada"	"32"	"2015"	"2015"	Suppressed	2890845	Suppressed	Suppressed	Suppressed	Suppressed
+	"Nevada"	"32"	"2016"	"2016"	Suppressed	2940058	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Hampshire"	"33"	"2015"	"2015"	38	1330608	2.86	3.26	2.29	4.52
+	"New Hampshire"	"33"	"2016"	"2016"	51	1334795	3.82	4.25	3.13	5.64
+	"New Jersey"	"34"	"2015"	"2015"	43	8958013	0.48	0.47	0.34	0.64
+	"New Jersey"	"34"	"2016"	"2016"	170	8944469	1.90	1.96	1.66	2.26
+	"New Mexico"	"35"	"2015"	"2015"	Suppressed	2085109	Suppressed	Suppressed	Suppressed	Suppressed
+	"New Mexico"	"35"	"2016"	"2016"	13	2081015	Unreliable	Unreliable	0.34	1.08
+	"New York"	"36"	"2015"	"2015"	142	19795791	0.72	0.72	0.60	0.84
+	"New York"	"36"	"2016"	"2016"	451	19745289	2.28	2.33	2.11	2.55
+	"North Carolina"	"37"	"2015"	"2015"	46	10042802	0.46	0.49	0.36	0.65
+	"North Carolina"	"37"	"2016"	"2016"	160	10146788	1.58	1.67	1.41	1.94
+	"North Dakota"	"38"	"2015"	"2015"	Suppressed	756927	Suppressed	Suppressed	Suppressed	Suppressed
+	"North Dakota"	"38"	"2016"	"2016"	Suppressed	757952	Suppressed	Suppressed	Suppressed	Suppressed
+	"Ohio"	"39"	"2015"	"2015"	253	11613423	2.18	2.32	2.03	2.61
+	"Ohio"	"39"	"2016"	"2016"	602	11614373	5.18	5.52	5.06	5.97
+	"Oklahoma"	"40"	"2015"	"2015"	Suppressed	3911338	Suppressed	Suppressed	Suppressed	Suppressed
+	"Oklahoma"	"40"	"2016"	"2016"	Suppressed	3923561	Suppressed	Suppressed	Suppressed	Suppressed
+	"Oregon"	"41"	"2015"	"2015"	Suppressed	4028977	Suppressed	Suppressed	Suppressed	Suppressed
+	"Oregon"	"41"	"2016"	"2016"	Suppressed	4093465	Suppressed	Suppressed	Suppressed	Suppressed
+	"Pennsylvania"	"42"	"2015"	"2015"	61	12802503	0.48	0.50	0.38	0.65
+	"Pennsylvania"	"42"	"2016"	"2016"	270	12784227	2.11	2.25	1.98	2.53
+	"Rhode Island"	"44"	"2015"	"2015"	45	1056298	4.26	4.59	3.32	6.19
+	"Rhode Island"	"44"	"2016"	"2016"	58	1056426	5.49	5.83	4.39	7.59
+	"South Carolina"	"45"	"2015"	"2015"	21	4896146	0.43	0.42	0.26	0.65
+	"South Carolina"	"45"	"2016"	"2016"	37	4961119	0.75	0.83	0.58	1.14
+	"South Dakota"	"46"	"2015"	"2015"	Suppressed	858469	Suppressed	Suppressed	Suppressed	Suppressed
+	"South Dakota"	"46"	"2016"	"2016"	Suppressed	865454	Suppressed	Suppressed	Suppressed	Suppressed
+	"Tennessee"	"47"	"2015"	"2015"	38	6600299	0.58	0.62	0.44	0.86
+	"Tennessee"	"47"	"2016"	"2016"	67	6651194	1.01	1.06	0.82	1.36
+	"Texas"	"48"	"2015"	"2015"	Suppressed	27469114	Suppressed	Suppressed	Suppressed	Suppressed
+	"Texas"	"48"	"2016"	"2016"	29	27862596	0.10	0.11	0.07	0.17
+	"Utah"	"49"	"2015"	"2015"	Suppressed	2995919	Suppressed	Suppressed	Suppressed	Suppressed
+	"Utah"	"49"	"2016"	"2016"	Suppressed	3051217	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2015"	"2015"	Suppressed	626042	Suppressed	Suppressed	Suppressed	Suppressed
+	"Vermont"	"50"	"2016"	"2016"	Suppressed	624594	Suppressed	Suppressed	Suppressed	Suppressed
+	"Virginia"	"51"	"2015"	"2015"	34	8382993	0.41	0.42	0.29	0.58
+	"Virginia"	"51"	"2016"	"2016"	130	8411808	1.55	1.60	1.32	1.88
+	"Washington"	"53"	"2015"	"2015"	Suppressed	7170351	Suppressed	Suppressed	Suppressed	Suppressed
+	"Washington"	"53"	"2016"	"2016"	Suppressed	7288000	Suppressed	Suppressed	Suppressed	Suppressed
+	"West Virginia"	"54"	"2015"	"2015"	28	1844128	1.52	1.77	1.16	2.57
+	"West Virginia"	"54"	"2016"	"2016"	65	1831102	3.55	3.91	3.00	5.01
+	"Wisconsin"	"55"	"2015"	"2015"	15	5771337	Unreliable	Unreliable	0.14	0.43
+	"Wisconsin"	"55"	"2016"	"2016"	40	5778708	0.69	0.73	0.52	1.00
+	"Wyoming"	"56"	"2015"	"2015"	Suppressed	586107	Suppressed	Suppressed	Suppressed	Suppressed
+	"Wyoming"	"56"	"2016"	"2016"	Suppressed	585501	Suppressed	Suppressed	Suppressed	Suppressed
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title: od_coc_fen_intervals_15_16"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: T40.5 (Cocaine)"
+"MCD - ICD-10 Codes: AND"
+"MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: X40 (Accidental poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X41"
+"(Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not"
+"elsewhere classified), X42 (Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not"
+"elsewhere classified), X43 (Accidental poisoning by and exposure to other drugs acting on the autonomic nervous system), X44"
+"(Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X60 (Intentional"
+"self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics), X61 (Intentional self-poisoning by and"
+"exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified), X62"
+"(Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified), X63"
+"(Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system), X64 (Intentional"
+"self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances), X85 (Assault by drugs,"
+"medicaments and biological substances), Y10 (Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics,"
+"undetermined intent), Y11 (Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic"
+"drugs, not elsewhere classified, undetermined intent), Y12 (Poisoning by and exposure to narcotics and psychodysleptics"
+"[hallucinogens], not elsewhere classified, undetermined intent), Y13 (Poisoning by and exposure to other drugs acting on the"
+"autonomic nervous system, undetermined intent), Y14 (Poisoning by and exposure to other and unspecified drugs, medicaments and"
+"biological substances, undetermined intent)"
+"Weekday: All"
+"Year/Month: 2015, 2016"
+"Group By: State, Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 24, 2018 6:22:00 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 24, 2018 6:22:00 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Confidence-Intervals."
+"7. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
